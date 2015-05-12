@@ -1,4 +1,3 @@
-import Data.List(group)
 --geriye fonksiyon listesi dönen bir metod
 makeFunctionList ::[String] -> [Integer->Integer]
 --makeFunctionList String_dizi
